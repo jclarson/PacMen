@@ -1,7 +1,8 @@
+<img src="./images/PacMan1.png" width='100' />
+
 # Name:
 
 Pac-Men
-<img src="./images/PacMan1.png" width='150' />
 
 # Description:
 
