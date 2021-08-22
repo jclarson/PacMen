@@ -1,9 +1,10 @@
 # Name:
 
 Pac-Men
+<img src="./images/PacMan1.png" width='150' />
 
-#Description:
-<img src="./images/PacMan1.png">
+# Description:
+
 The goal of this project was to create multiple images and move them around the screen, changing direction when hitting screen edges.
 
 # Installation:
