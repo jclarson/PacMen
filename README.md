@@ -10,7 +10,7 @@ The goal of this project was to create multiple images and move them around the 
 
 # Installation:
 
-Requires the index.html and pacmen.js files to be in the same directory, and a subdirectory called images containing the PacMan1.png file.
+Requires the index.html and pacmen.js files to be in the same directory, and a subdirectory called images containing the 4 PNG files.
 
 # Usage:
 
